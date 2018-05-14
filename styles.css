@@ -1,0 +1,194 @@
+body {
+    font-size: 12px;
+}
+
+nav {
+    font-family: "roboto condensed";
+    font-weight: 300;
+}
+
+#t1 {
+    color: white;
+    text-align: center;
+
+}
+
+#logoo {
+    width: 200px;
+}
+
+#logooo {
+    background-color: black;
+}
+
+#logo1 {
+    width: 500px;
+    display: block;
+    margin: auto;
+    position: relative;
+    top: 35%;
+}
+
+.black {
+    background-color: black !important;
+}
+
+.pg {
+    width: 100vw;
+    height: 100vh;
+}
+
+.cent {
+    position: relative;
+    top: 40%;
+    text-align: center;
+    font-family: "roboto condensed";
+    font-weight: 500 !important;
+    color: white;
+    font-size: 1200px !important;
+}
+
+.cent1 {
+    position: relative;
+    top: 35%;
+    text-align: center;
+    font-family: "roboto condensed";
+    font-weight: 500;
+    color: white;
+    font-size: 1200px !important;
+}
+
+.divi {
+    background-color: black;
+    height: 15vh;
+    width: 100vw;
+}
+
+/*TEXT CSS*/
+
+#t1 {
+    font-size: 40px;
+    font-weight: 300;
+}
+
+#t1a {
+    font-size: 90px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+#t1b {
+    font-size: 44px;
+    font-weight: 400;
+    line-height: 60px;
+}
+
+#t2a {
+    font-size: 60px;
+    font-weight: 700;
+
+}
+
+#t2b {
+    font-size: 44px;
+    font-weight: 300;
+}
+
+#t3a {
+    font-size: 60px;
+    font-weight: 700;
+
+}
+
+#t4b {
+    font-size: 44px;
+    font-weight: 300;
+}
+
+#t4b {
+    font-size: 44px;
+    font-weight: 300;
+}
+
+#t4C {
+    font-size: 44px;
+    font-weight: 300;
+}
+
+#t4d {
+    font-size: 44px;
+    font-weight: 300;
+}
+
+
+/*DIV CSS*/
+
+#main {
+    background-image: url(modimg/greybg.png);
+    background-size: cover
+}
+
+#mod1 {
+    background-color: pink;
+    background-image: url(modimg/master%20copy.png);
+    background-size: cover;
+    justify-content: center;
+    align-content: center;
+
+}
+
+#mod2 {
+    background-color: aqua;
+    background-image: url(modimg/master%20copy%202.jpg);
+    background-size: cover
+}
+
+#mod3 {
+    background-color: red;
+    background-image: url(modimg/master.png);
+    background-size: cover
+}
+
+#mod4 {
+    background-color: yellow;
+    background-image: url(modimg/master%20copy.png);
+    background-size: cover
+}
+
+#foot {
+    background-color: black;
+    background-size: cover;
+    height: 500px
+}
+
+#footy {
+    margin-top: 100px
+}
+
+#footylinks {
+    display: flex;
+    justify-content: center;
+
+}
+
+#email {
+    margin-top: 10px;
+    font-weight: 300 !important;
+    font-size: 16px;
+    
+}
+
+#copyright {
+    margin-top: 10px;
+    font-weight: 300 !important;
+    font-size: 16px;
+    color: white;
+    
+}
+
+
+.ico {
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 50px;
+}
