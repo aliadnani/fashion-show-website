@@ -128,26 +128,30 @@ nav {
 
 }
 
-#t4b {
+#t3b {
     font-size: 44px;
     font-weight: 300;
+}
+
+#t4a {
+    font-size: 100px;
+    font-weight: 700;
 }
 
 #t4b {
+    font-size: 26px;
+    font-weight: 300;
+}
+
+#t5a {
     font-size: 44px;
     font-weight: 300;
 }
 
-#t4C {
+#t5b {
     font-size: 44px;
     font-weight: 300;
 }
-
-#t4d {
-    font-size: 44px;
-    font-weight: 300;
-}
-
 
 /*DIV CSS*/
 
@@ -179,14 +183,14 @@ nav {
 
 #mod4 {
     background-color: yellow;
-    background-image: url(modimg/master%20copy.png);
+    background-image: url(modimg/DSC_4188.jpg);
     background-size: cover
 }
 
 #foot {
     background-color: black;
     background-size: cover;
-    height: 520px
+    height: 570px
 }
 
 #footy {
@@ -200,7 +204,7 @@ nav {
 }
 
 #email {
-    margin-top: 10px;
+    margin-top: 15px;
     font-weight: 300 !important;
     font-size: 16px;
 
@@ -220,4 +224,21 @@ nav {
     margin-left: 10px;
     margin-right: 10px;
     height: 50px;
+}
+
+a:link, a:visited { 
+    color: white;
+    text-decoration: none;
+    cursor: auto;
+}
+
+a:hover {
+    color: white !important;
+    text-decoration: none !important;
+    text-decoration-color: white;
+    cursor: pointer;
+}
+
+.lin {
+    font-size: 12px;
 }
