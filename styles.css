@@ -178,12 +178,14 @@ nav {
 #mod3 {
     background-color: red;
     background-image: url(modimg/master.png);
+    background-position: 50% 15%;
     background-size: cover
 }
 
 #mod4 {
     background-color: yellow;
     background-image: url(modimg/DSC_4188.jpg);
+    background-position: 50% 30%;
     background-size: cover
 }
 
@@ -226,7 +228,8 @@ nav {
     height: 50px;
 }
 
-a:link, a:visited { 
+a:link,
+a:visited {
     color: white;
     text-decoration: none;
     cursor: auto;
